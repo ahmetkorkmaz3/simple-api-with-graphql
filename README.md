@@ -12,7 +12,11 @@
 
 ## Screenshot
 
-![ss](./images/ss.png)
+<p align="center">
+  ![](./images/ss2.png)
+
+  ![ss](./images/ss.png)
+</p>
 
 ## Install
 
