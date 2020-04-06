@@ -12,11 +12,10 @@
 
 ## Screenshot
 
-<p align="center">
-  ![](./images/ss2.png)
-
-  ![ss](./images/ss.png)
-</p>
+<h1 align="center">
+  <img src="./images/ss2.png">
+  <img src="./images/ss.png">
+</h1>
 
 ## Install
 
