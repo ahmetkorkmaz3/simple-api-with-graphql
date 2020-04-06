@@ -8,6 +8,8 @@
 
 > Simple blog api with graphql
 
+### localhost:8000/graphql adresinden sorgu işlemleri yapabilirsiniz.
+
 ## Screenshot
 
 ![ss](./images/ss.png)
